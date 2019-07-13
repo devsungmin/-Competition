@@ -18,4 +18,5 @@
 [바로가기](http://www.chungnam.go.kr/cnnet/board.do?mnu_url=/cnbbs/view.do?board_seq=242918&code=36&mnu_cd=CNNMENU00148)
 ![충남공공데이터 활용 창업경진대회](./img/2.jpg)
 본선 합격 문자
+
    ![충남공공데이터 활용 창업경진대회](./img/4.JPG)
